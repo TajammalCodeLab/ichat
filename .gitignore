@@ -1,0 +1,17 @@
+# Xcode-specific files to ignore
+*.xcworkspacedata
+*.xcuserstate
+*.xcscheme
+xcschememanagement.plist
+*.xcbkptlist
+# macOS-specific
+.DS_Store
+
+# Build folders
+build/
+DerivedData/
+
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
+branch_structure.json
