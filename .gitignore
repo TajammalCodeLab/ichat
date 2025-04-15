@@ -1,0 +1,13 @@
+# Xcode-specific files to ignore
+*.xcworkspacedata
+*.xcuserstate
+*.xcscheme
+xcschememanagement.plist
+*.xcbkptlist
+# macOS-specific
+.DS_Store
+
+# Build folders
+build/
+DerivedData/
+
