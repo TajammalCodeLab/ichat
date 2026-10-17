@@ -11,3 +11,5 @@ xcschememanagement.plist
 build/
 DerivedData/
 
+config.bat
+node_modules
